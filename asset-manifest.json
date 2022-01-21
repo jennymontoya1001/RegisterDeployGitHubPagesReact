@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/RegisterDeployGitHubPagesReact/static/js/main.f944aced.js",
+    "index.html": "/RegisterDeployGitHubPagesReact/index.html",
+    "main.f944aced.js.map": "/RegisterDeployGitHubPagesReact/static/js/main.f944aced.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f944aced.js"
+  ]
+}
